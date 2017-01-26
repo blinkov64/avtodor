@@ -1,0 +1,25 @@
+.content{
+	text-align: justify;
+	background-color: #EEE9E9;/*#F5F5F5;*/
+	padding: 10px 50px;
+	padding-bottom: 30px;
+	
+}
+p{
+	text-indent: 25px;
+	
+}
+img{
+	display: block;
+	margin: auto;
+	
+}
+.achivments{
+	margin-left: 0px;
+}
+span{
+	display: block;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-style: italic;
+}

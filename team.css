@@ -1,0 +1,16 @@
+table{
+	text-align: center;
+	
+	
+}
+.content{
+	
+	background-color: #EEE9E9;/*#F5F5F5;*/
+	padding: 20px 50px;
+	padding-bottom: 40px;
+	
+	
+}
+th{
+	padding: 5px;
+}

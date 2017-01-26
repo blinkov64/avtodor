@@ -1,0 +1,21 @@
+.pointer:hover{
+	cursor: pointer;
+	-webkit-filter: drop-shadow(2px 2px 5px #333);
+	
+	
+}
+.pointer-main{
+	display: inline-block;
+	width: 10%;
+	
+	vertical-align: top;
+	height: 341px;
+}
+
+.content{
+	padding: 40px 38px;
+	
+}
+.pointer{
+	margin-top: 150px;
+}
